@@ -1,0 +1,11 @@
+.container{
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    background-color: black;
+}
+
+.header{
+    font-family: 'Source Code Pro', monospace;
+    text-align: center;
+}
